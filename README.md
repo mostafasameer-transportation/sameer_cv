@@ -39,7 +39,7 @@ Email:
 
 LinkedIn:
 
-* Add your LinkedIn profile URL here
+https://www.linkedin.com/in/mostafa-sameer/
 
 ---
 
